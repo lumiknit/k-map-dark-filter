@@ -16,13 +16,13 @@
 
 - chrome://flags#enable-force-dark 을 설정한 브라우저
   - e.g. chrome, kiwi, cromite, brave, samsung internet..?, etc.
-- Adblock Plus / UBlock Origin 이 설치되고, customer filters 를 추가할 수 있는 브라우저
+- UBlock Origin 또는 호환되는 필터를 사용할 수 있는 브라우저
 
 를 준비합니다.
 
 기본적으로 네이버 지도와 카카오 지도는 color-scheme 에 dark 가 없기 때문에 enable-force-dark 를 enabled 등으로 설정할 수 있는데, 이 때 지도 영역을 제외한 나머지만 색반전이 됩니다.
 
-### Adblock Plus / UBlock Origin
+### UBlock Origin
 
 Adblock Plus 나 ublock origin 설정에 들어간 다음에 custom filters 에서 주소를 입력하는 부분에 아래 주소를 추가합니다.
 
