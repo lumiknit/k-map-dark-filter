@@ -24,11 +24,13 @@
 
 ### Adblock Plus / UBlock Origin
 
-필터 주소에 아래를 추가합니다:
+Adblock Plus 나 ublock origin 설정에 들어간 다음에 custom filters 에서 주소를 입력하는 부분에 아래 주소를 추가합니다.
 
 ```filter
 https://raw.githubusercontent.com/lumiknit/k-map-dark-filter/main/k-map-dark.ublock.txt
 ```
+
+만약 추가 후 제대로 안 되는 것 같다면, 대신에 `k-map-dark.ublock.txt` 파일의 내용을 그대로 복사해서 filter 목록에 추가해서 테스트해보세요.
 
 ## 예시
 
